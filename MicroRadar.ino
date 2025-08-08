@@ -1,4 +1,4 @@
-// Includes the Servo library
+ // Includes the Servo library
 #include <Servo.h>
 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
