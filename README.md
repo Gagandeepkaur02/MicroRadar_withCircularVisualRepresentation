@@ -2,7 +2,7 @@
 Real-time radar simulation using Arduino &amp; Processing. Visualizes ultrasonic sensor data as a sweeping radar with distance arcs.
 
 **Arduino Ultrasonic Radar**
-
+ 
 A real-time radar-style visualization built with **Arduino** and **Processing**.  
 This project reads data from an **HC-SR04 Ultrasonic Sensor** connected to Arduino and displays it on a radar-like interface in Processing.
 
